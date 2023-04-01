@@ -1,1 +1,1 @@
-# A simple feedback "collect & display" system made using React.
+# A simple React "collect & display" feedback system aplication.
