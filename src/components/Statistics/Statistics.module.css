@@ -1,0 +1,22 @@
+.statistics__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.statistics__info {
+    font-size: 15px;
+    text-align: center;
+}
+
+.statistics__title {
+    font-weight: 700;
+    max-width: 80px;
+}
+
+.statistics__info:last-child {
+    color: red;
+    font-size: 18px;
+}
